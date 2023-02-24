@@ -1,0 +1,27 @@
+body{
+    padding: 2rem;
+}
+#container {
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 10rem;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    
+    padding: 2rem;
+}
+
+.numberHolder {
+    border: white;
+    border-color:white;
+    border-width: thick;
+    height: 30px;
+    border: outset;
+}
+
+.clockCSS{
+height: 50px;
+width: 50px;
+}
